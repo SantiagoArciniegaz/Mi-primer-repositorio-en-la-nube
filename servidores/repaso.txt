@@ -1,0 +1,1 @@
+Es un sistema de nube para nuestros sitios web, el cual almacena toda la parte del backend, bases de datos, infraestructura de lenguajes de programacion como php, python, node.js entre otros para el efectivo funcionamiento y almacenado de datos.

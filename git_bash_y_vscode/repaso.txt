@@ -1,0 +1,2 @@
+git bash: es un programa que nos permite ingresar a la terminal de nuestra consola, de manera rapida y eficas por medio de una interfaz de linea de comandos.
+vscode: es un programa que nos permite codificar y editar estructuras de codigo con multiples lenguajes de programacion y extensiones para su efectiva ejecucion con el navegador.

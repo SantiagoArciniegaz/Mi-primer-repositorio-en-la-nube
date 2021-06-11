@@ -1,0 +1,3 @@
+Existen dos modelos de interfaces de usuario:
+Interfaz de lineas de comando: es la manera en la que las personas interactuaban con las computadoras a mediados de los años 70 y 90, por medio de lineas de codigo, sin interfaces graficas, haciendolas mas rodumentarias pero eficaces a la hora de la ejecucion de tareas con el sistema operativo.
+Interfaz grafica de usuario: es la evolucion de las lineas de comando, fue con ayuda de la creacion del sistema operativo que se dio un nuevo salto a la visualisacion de los comandos por medio de graficos, botones, imagenes, diseño, entre otras cosas que le dieron un aire mas intuitivo a los programas, sistemas, aplicaciones, etc.

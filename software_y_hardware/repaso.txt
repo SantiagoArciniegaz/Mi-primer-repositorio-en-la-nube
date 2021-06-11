@@ -1,0 +1,2 @@
+Hardware es el estado fisico de un equipo, una mouse, un teclado, una impresora, un monitor, una memoria entre varias cosas. Estas se dividen en 3 categorias, dispositivos de entrada, salida e interiores.
+Software son los programas, aplicaciones sistema operativo que se encarga de darle ordenes a la computadora para ejecutar acciones especificas, aquellos que es codificado y ejecutado por el procesador.
